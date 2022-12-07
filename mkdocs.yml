@@ -1,4 +1,5 @@
 site_name: haohuai's blog
+repo_url: https://imhaohuai.github.io/
 
 theme:
     name: 'material'

@@ -1,5 +1,5 @@
 
-- [[Haohuai 互联网周刊]]
+- [[Haohuai 周刊]]
 
 ## haohuai 之选
 
