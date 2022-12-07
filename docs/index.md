@@ -8,7 +8,7 @@
 | 网站     | 官方链接                                | 标签     | 推荐栏目/节目 |
 | -------- | --------------------------------------- | -------- | ------------- |
 | 少数派   | [https://sspai.com](https://sspai.com/) | 数字生活 |               |
-| 虎扑 NBA | https://nba.hupu.com/  |  NBA 资讯        |               |
+| 虎扑 NBA | [https://nba.hupu.com/](https://nba.hupu.com/)  |  NBA 资讯        |               |
 
 ### 播客之选
 
