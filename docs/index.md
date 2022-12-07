@@ -4,17 +4,21 @@
 ## haohuai 之选
 
 ### 资讯之选
-```dataview
-table 官方链接, 标签, 推荐栏目/节目
-from "haohuai.github.io/docs/haohuai 之选"
-where contains(类型 ,"资讯")
-sort rating desc
-```
+
+| 网站     | 官方链接                                | 标签     | 推荐栏目/节目 |
+| -------- | --------------------------------------- | -------- | ------------- |
+| 少数派   | [https://sspai.com](https://sspai.com/) | 数字生活 |               |
+| 虎扑 NBA | https://nba.hupu.com/  |  NBA 资讯        |               |
+
 ### 播客之选
 
-```dataview
-table 官方链接, 标签, 推荐栏目/节目
-from "haohuai.github.io/docs/haohuai 之选"
-where contains(类型 ,"播客")
-sort rating desc
-```
+| 播客          | 官方链接 | 标签                   | 推荐栏目/节目 |
+| ------------- | -------- | ---------------------- | ------------- |
+| Nice Try      |          | 最有好友闲聊 feel      |               |
+| Fishes Wishes |          | 反消费主义闲聊         |               |
+| 太医来了      |          | 医生谈话类节目 #已停更 |               |
+| 阿弥晚安      |          | 最欣赏的年轻 up 主     |               |
+| 疯投圈        |          | 商业类投资             |               |
+| 故事 FM       |          | 亲历者自述的故事       |               |
+| 一苒一刻      |          | 智能电动车产业资讯     |               |
+| 大小马聊科技              |          |   智能电动车产业资讯                     |               |
