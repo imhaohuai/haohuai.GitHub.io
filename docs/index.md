@@ -1,11 +1,20 @@
-# Obsidian Notes
 
-Publish your public notes with MkDocs
+- [[Haohuai 互联网周刊]]
 
-## Hello World!
+## haohuai 之选
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+### 资讯之选
+```dataview
+table 官方链接, 标签, 推荐栏目/节目
+from "haohuai.github.io/docs/haohuai 之选"
+where contains(类型 ,"资讯")
+sort rating desc
+```
+### 播客之选
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+```dataview
+table 官方链接, 标签, 推荐栏目/节目
+from "haohuai.github.io/docs/haohuai 之选"
+where contains(类型 ,"播客")
+sort rating desc
+```
